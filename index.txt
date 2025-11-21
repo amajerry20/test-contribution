@@ -1,0 +1,7 @@
+<html>
+<head></head>
+<body>
+<h1>Hypertext Markup Language</h1>
+<p1>This is a sample HTML in github</p1>
+</body>
+</html>
